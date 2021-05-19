@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CalculatorTests:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculatorTests_jar</output-path>
+    <root id="archive" name="CalculatorTests_jar.jar">
+      <element id="archive" name="CalculatorTests.jar">
+        <element id="module-output" name="CalculatorTests" />
+        <element id="file-copy" path="$PROJECT_DIR$/calculator-1.0.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
